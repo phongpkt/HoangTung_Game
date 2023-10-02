@@ -1,2 +1,0 @@
-# IncompleteGame
-# IncompleteProject
